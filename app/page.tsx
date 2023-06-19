@@ -23,6 +23,8 @@ export default function Home() {
 			</p>
 			<div className="mt-10 flex flex-col w-3/4 items-center justify-center space-y-5">
 				<Project name="Text in a circle" path="text-in-a-circle" />
+				<Project name="Grandient text" path="gradient-text" />
+				<Project name="Skew scroll" path="skewed-scrolling" />
 			</div>
 		</div>
 	);
